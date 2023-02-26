@@ -1,0 +1,8 @@
+com/tta/payloads/pojos/Booking.class
+com/tta/utils/FillowUtils.class
+com/tta/utils/PropertyReaderOptimized.class
+com/tta/utils/PropertyReader.class
+com/tta/utils/YamlReader.class
+com/tta/modules/PayloadManager.class
+com/tta/endpoints/APIConstants.class
+com/tta/payloads/pojos/Bookingdates.class

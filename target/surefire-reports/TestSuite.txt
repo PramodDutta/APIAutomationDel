@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 0.899 s <<< FAILURE! - in TestSuite
+setUp(com.tta.tests.crud.CreateBookingTest)  Time elapsed: 0.703 s  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class org.codehaus.groovy.reflection.ReflectionCache
+
